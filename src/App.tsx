@@ -19,7 +19,7 @@ const mediaItems: MediaItem[] = [
   {
     id: 2,
     type: "video",
-    url: "",
+    url: "Ad wrap - lambo.mp4",
     poster: "https://picsum.photos/seed/street1/1200/800",
   },
   {
@@ -97,7 +97,7 @@ export default function App() {
         {/* Hero Video Background */}
         <div className="absolute inset-0 z-0">
           <video
-            src=""
+            src="Ad wrap - lambo.mp4"
             autoPlay
             muted
             loop
