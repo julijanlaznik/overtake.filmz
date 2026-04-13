@@ -25,26 +25,8 @@ const mediaItems: MediaItem[] = [
   {
     id: 3,
     type: "video",
-    url: "",
+    url: "muzicek showreel (1).mp4",
     poster: "https://picsum.photos/seed/abstract1/1200/800",
-  },
-  {
-    id: 4,
-    type: "video",
-    url: "",
-    poster: "https://picsum.photos/seed/fashion1/1200/800",
-  },
-  {
-    id: 5,
-    type: "video",
-    url: "",
-    poster: "https://picsum.photos/seed/camera1/1200/800",
-  },
-  {
-    id: 6,
-    type: "video",
-    url: "",
-    poster: "https://picsum.photos/seed/waves1/1200/800",
   },
 ];
 
